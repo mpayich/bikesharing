@@ -14,9 +14,22 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results:
+
+### Bike Checkout times: 
 ![image1](/bikeimages/image1.png)
 
-## Summary:
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
+### Bike Checkout Times by gender:
+![image2](/bikeimages/image2.png)
+
+![image3](/bikeimages/image3.png)
+
+![image4](/bikeimages/image4.png)
+
+![image5](/bikeimages/image5.png)
+
+![image6](/bikeimages/image6.png)
+
+![image7](/bikeimages/image7.png)
+
 
 
