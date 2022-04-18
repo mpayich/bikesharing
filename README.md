@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/views/NYCBikeSharingChallenge_16454087333060/NYCBikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")
 
 ## Overview of the statistical analysis:
 
