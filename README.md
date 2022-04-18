@@ -1,6 +1,7 @@
 # bikesharing
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/views/NYCBikeSharingChallenge_16454087333060/NYCBikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link")
+Tableau Dashboard:
+https://public.tableau.com/views/NYCBikeSharingChallenge_16454087333060/NYCBikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Overview of the statistical analysis:
 
@@ -13,8 +14,7 @@ For this analysis, Pandas was used to change the "tripduration" column from an i
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
 ## Results:
-add images
-and description under each
+![image1](/Images/image1.png)
 
 ## Summary:
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
